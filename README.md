@@ -1,9 +1,9 @@
 # DSP and SDR
 
-Digital Signal Processing (DSP)
-Software-Defined Radio (SDR)
+- Digital Signal Processing (DSP)
+- Software-Defined Radio (SDR)
 
-## Run examples
+## Run examples
 
 ```bash
 virtualenv env
